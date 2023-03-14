@@ -15,11 +15,13 @@ Refreshing the browser will not delete the saved items. <br>
 The information entered will be saved on the page until 12AM the next day, after which the it will be automcatically deleted and the application will be ready for use for the next day. <br>
 The clear button is available for use to delete all saved items and clear the time blocks.
 
-
-
-
 ## Starter Code Source:
-https://github.com/mmeii/code-quiz
+https://github.com/coding-boot-camp/crispy-octo-meme
+
+## Other Code Sources:
+https://github.com/sylviaprabudy/work-day-scheduler <br>
+https://stackoverflow.com/questions/1217929/how-to-automatically-reload-a-web-page-at-a-certain-time
+
 
 ## Code Refactoring:
 ### CSS FILE 
