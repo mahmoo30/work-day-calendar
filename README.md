@@ -31,12 +31,14 @@ The clear button is available to use for deleting all saved items and clearing t
 - Updated Bootstrap JS Link
 - Updated Google Font Link
 - Updated Font Awesome Link
+- Updated jQuery
 - Comments Added for Each Section of the Code for Debugging Purposes
 - Classes added/changed/updated in Each Section
-- Issues Fixed and Visual Appearance Changed
+- Issues Fixed and Visual Appearance Tweaked
 - Added Containers for Time Blocks
 - Added Script Files
 ### JS FILE
+- Day.js Utilized for Calling the Date and Time Functions/Variables
 - Code Added that Interacts with the DOM in a Call to jQuery to Ensure that the Code is Not Run Until the Browser has Finished Rendering All the Elements in the HTML
 - Comments Added for Each Section of the Code for Debugging Purposes
 - Starter and Other Code Sources Debugged and Improved Upon to Fix Issues
