@@ -50,4 +50,4 @@ The clear button is available to use for deleting all saved items and clearing t
 ## Deployed Website:
 https://mahmoo30.github.io/work-day-calendar/
   
-![](https://github.com/mahmoo30/coding-quiz/blob/main/assets/webpage.gif)
+![]([https://github.com/mahmoo30/coding-quiz/blob/main/assets/webpage.gif](https://github.com/mahmoo30/work-day-calendar/blob/main/assets/images/webpage.gif))
