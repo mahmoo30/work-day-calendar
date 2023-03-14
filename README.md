@@ -19,8 +19,8 @@ The clear button is available to use for deleting all saved items and clearing t
 <li> https://github.com/coding-boot-camp/crispy-octo-meme
 
 ## Other Code Sources:
-https://github.com/sylviaprabudy/work-day-scheduler <br>
-https://stackoverflow.com/questions/1217929/how-to-automatically-reload-a-web-page-at-a-certain-time
+<li> https://github.com/sylviaprabudy/work-day-scheduler <br>
+<li> https://stackoverflow.com/questions/1217929/how-to-automatically-reload-a-web-page-at-a-certain-time
 
 
 ## Code Refactoring:
@@ -39,15 +39,15 @@ https://stackoverflow.com/questions/1217929/how-to-automatically-reload-a-web-pa
 ### JS FILE
 - Code Added that Interacts with the DOM in a Call to jQuery to Ensure that the Code is Not Run Until the Browser has Finished Rendering All the Elements in the HTML
 - Comments Added for Each Section of the Code for Debugging Purposes
-
 - Starter and Other Code Sources Debugged and Improved Upon to Fix Issues
+- Clear Button Added
+- Refresh Function Added
 
 ## How It Can Be Improved:
-- Include More Questions: Increase the Total Time Accordingly
-- Randomize the Questions Each Time the Quiz is Started
-- Randomize the Order of the Mutiple Choice Answers Each Time
+- Display Live Clock 
+- Add More Features and Time Blocks
 
 ## Deployed Website:
-https://mahmoo30.github.io/coding-quiz/
-
+https://mahmoo30.github.io/work-day-calendar/
+  
 ![](https://github.com/mahmoo30/coding-quiz/blob/main/assets/webpage.gif)
