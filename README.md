@@ -25,19 +25,22 @@ https://stackoverflow.com/questions/1217929/how-to-automatically-reload-a-web-pa
 
 ## Code Refactoring:
 ### CSS FILE 
-- File is completely new, I am the author.
+- File is Untouched to Maintain the Visual Appearance as Shown in the Starter Code. I am Not the Author.
 ### HTML FILE
 - Updated Bootstrap Link
 - Updated Bootstrap JS Link
 - Updated Google Font Link
+- Updated Font Awesome Link
 - Comments Added for Each Section of the Code for Debugging Purposes
 - Classes added/changed/updated in Each Section
 - Issues Fixed and Visual Appearance Changed
+- Added Containers for Time Blocks
+- Added Script Files
 ### JS FILE
-- Questions/Answers Section Edited to Make into a Javascript Only Quiz
+- Code Added that Interacts with the DOM in a Call to jQuery to Ensure that the Code is Not Run Until the Browser has Finished Rendering All the Elements in the HTML
 - Comments Added for Each Section of the Code for Debugging Purposes
-- Functions and/or Variables renamed to Fit into New Code
-- Started Code Debugged and Multiple Issues Fixed
+
+- Starter and Other Code Sources Debugged and Improved Upon to Fix Issues
 
 ## How It Can Be Improved:
 - Include More Questions: Increase the Total Time Accordingly
