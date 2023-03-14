@@ -1,5 +1,6 @@
 # Work Day Calendar
-## A Simple Calendar Application That Allow Users to Plan for Hourly Events in a 9AM-5PM Work Day
+## A Simple Calendar Application
+### Users Can Use this Application to Plan for their Hourly Events in a 9AM-5PM Work Day
 
 ## User Story:
 As an employee with a busy schedule I want to add important events to a daily planner so that I can manage my time effectively.
